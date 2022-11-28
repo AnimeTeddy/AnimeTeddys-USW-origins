@@ -1,0 +1,14 @@
+{
+	"powers": [
+                "usworigins:siren/siren_song",
+                "usworigins:siren/amphibious",
+                "usworigins:siren/holy_water",
+                "usworigins:siren/out_of_your_depth",
+                "usworigins:siren/prone",
+                "usworigins:siren/flammable",
+                "usworigins:siren/water_vision"
+	],
+	"icon": "minecraft:sea_lantern",
+	"impact": 2,
+        "order": 1
+}

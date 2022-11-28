@@ -1,0 +1,13 @@
+{
+	"powers": [
+                "usworigins:gorgon/serpentine_companions",
+                "usworigins:gorgon/stony_gaze",
+                "usworigins:gorgon/super_strength",
+                "usworigins:gorgon/hydrophobe",
+                "usworigins:gorgon/petrification",
+                "usworigins:gorgon/silver_aversion"
+	],
+	"icon": "minecraft:mossy_cobblestone",
+	"impact": 3,
+        "order": 1
+}

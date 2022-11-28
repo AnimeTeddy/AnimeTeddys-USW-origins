@@ -1,0 +1,21 @@
+{
+    "powers": [
+        "origins:carnivore",
+        "usworigins:global/short",
+        "usworigins:global/too_bright",
+        "usworigins:global/aqua_struggle",
+        "usworigins:dwarf/dwarfs_pack",
+		"usworigins:dwarf/d_homeland",
+        "usworigins:dwarf/demolitionist",
+        "usworigins:dwarf/quick_mining",
+        "usworigins:dwarf/tough_skin"
+
+    ],
+	"icon": {
+		"item": "minecraft:netherite_pickaxe"
+	},
+	"order": 15,
+	"impact": 3,
+    "name": "Dwarf",
+    "description": "Strong but short humans with extraordinary mining abilities."
+}

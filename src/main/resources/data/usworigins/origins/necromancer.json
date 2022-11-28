@@ -1,0 +1,14 @@
+{
+	"powers": [
+                "usworigins:necromancer/hellraiser",
+                "usworigins:necromancer/resilient",
+                "usworigins:necromancer/impervious",
+                "usworigins:necromancer/poor_reputation",
+                "usworigins:necromancer/black_thumb",
+                "usworigins:necromancer/disturbed",
+                "usworigins:necromancer/unguarded"
+	],
+	"icon": "minecraft:wither_rose",
+	"impact": 2,
+        "order": 1
+}

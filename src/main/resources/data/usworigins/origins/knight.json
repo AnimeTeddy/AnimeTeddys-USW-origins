@@ -1,0 +1,13 @@
+{
+	"powers": [
+                "usworigins:knight/for_honour_and_glory",
+                "usworigins:knight/skilled_swordsman",
+		"usworigins:knight/valour",
+                "usworigins:knight/burdened",
+                "usworigins:knight/magic_prone",
+                "usworigins:knight/melee4ever"
+	],
+	"icon": "minecraft:shield",
+	"impact": 1,
+        "order": 1
+}

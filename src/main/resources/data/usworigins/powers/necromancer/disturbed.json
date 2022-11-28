@@ -1,0 +1,5 @@
+{
+	"type": "origins:prevent_sleep",
+        "message": "usworigins.disturbed_restless",
+        "set_spawn_point": true
+} 

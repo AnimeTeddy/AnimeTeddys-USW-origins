@@ -1,0 +1,30 @@
+{
+    "powers": [
+        "origins:aquatic",
+        "origins:aqua_affinity",
+        "origins:like_water",
+        "origins:fragile",
+        "extraorigins:flammable",
+        "usworigins:global/guardian_alliance",
+        "usworigins:aquarian/a_homeland",
+        "usworigins:aquarian/dehydrated",
+        "usworigins:aquarian/evaporate",
+        "usworigins:aquarian/water_form",
+        "usworigins:aquarian/rain_swim/active",
+        "usworigins:aquarian/rain_swim/toggle",
+        "usworigins:aquarian/rain_swim/rain_regen",
+        "usworigins:aquarian/aquavore",
+        "usworigins:aquarian/aquamancer/magic",
+        "usworigins:aquarian/aquamancer/descriptions/group_heal",
+        "usworigins:aquarian/aquamancer/descriptions/strength",
+        "usworigins:aquarian/rain_cloud",
+        "usworigins:aquarian/aquamancer/descriptions/health_boost"
+    ],
+	"icon": {
+		"item": "minecraft:heart_of_the_sea"
+	},
+	"order": 8,
+	"impact": 3,
+    "name": "Aquarian",
+    "description": "Powerful water elementals, blessing all sea life."
+}

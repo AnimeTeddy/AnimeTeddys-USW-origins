@@ -1,0 +1,14 @@
+{
+	"powers": [
+                "usworigins:arachnae/climber",
+		        "usworigins:arachnae/many_eyes",
+                "usworigins:arachnae/venomous_bite",
+                "usworigins:arachnae/web_slinger",
+                "usworigins:arachnae/bottomless_stomach",
+                "usworigins:arachnae/brittle",
+                "usworigins:arachnae/fragile_exoskeleton"
+	],
+	"icon": "minecraft:string",
+	"impact": 2,
+    "order": 1
+}

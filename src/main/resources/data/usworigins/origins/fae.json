@@ -1,0 +1,13 @@
+{
+	"powers": [
+                "usworigins:fae/levitation",
+                "usworigins:fae/magic_resistance",
+		        "usworigins:fae/regen",
+                "usworigins:fae/allure",
+                "usworigins:fae/diminutive",
+                "usworigins:fae/iron_aversion"
+	],
+	"icon": "minecraft:experience_bottle",
+	"impact": 2,
+        "order": 1
+}

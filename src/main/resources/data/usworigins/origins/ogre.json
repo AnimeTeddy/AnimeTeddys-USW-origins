@@ -1,0 +1,16 @@
+{
+	"powers": [
+                "usworigins:ogre/charge",
+                "usworigins:ogre/lead_belly",
+		"usworigins:ogre/stocky",
+                "usworigins:ogre/gargantuan",
+                "usworigins:ogre/ravenous",
+                "usworigins:ogre/sluggish",
+                "usworigins:ogre/xxxl",
+                "usworigins:ogre/unweildy",
+                "usworigins:ogre/ogre_properties"  
+	],
+	"icon": "minecraft:wooden_axe",
+	"impact": 3,
+        "order": 1
+}

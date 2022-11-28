@@ -1,0 +1,12 @@
+{
+	"powers": [
+                "usworigins:goblin/cunning",
+                "usworigins:goblin/greedy",
+                "usworigins:goblin/nippy",
+                "usworigins:goblin/stunted",
+		        "usworigins:goblin/frail"
+	],
+	"icon": "minecraft:gold_block",
+	"impact": 1,
+        "order": 1
+}

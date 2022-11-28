@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "origins": [
+     "usworigins:arachnae",
+     "usworigins:daemon",
+     "usworigins:elf",
+     "usworigins:fae",
+     "usworigins:goblin",
+     "usworigins:gorgon",
+     "usworigins:knight",
+     "usworigins:necromancer",
+     "usworigins:ogre",
+     "usworigins:paladin",
+     "usworigins:siren",
+     "usworigins:troll",
+     "usworigins:werewolf",
+     "usworigins:yeti",
+     "usworigins:harpy",
+     "usworigins:dwarf",
+     "usworigins:dryad",
+     "usworigins:tiefling",
+     "usworigins:imp",
+     "usworigins:phoenix",
+     "usworigins:orc",
+     "usworigins:triton",
+     "usworigins:croak",
+     "usworigins:aquarian"
+  ]
+}

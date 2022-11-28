@@ -1,0 +1,27 @@
+{
+    "powers": [
+        "origins:damage_from_potions",
+        "origins:fire_immunity",
+        "origins:flame_particles",
+        "usworigins:global/hyper_hydrophobia",
+        "usworigins:global/heated_slumber",
+        "usworigins:global/frostbite",
+        "usworigins:global/lava_swimming",
+        "origins:slow_falling",
+        "usworigins:phoenix/p_homeland",
+        "usworigins:phoenix/reincarnate",
+        "usworigins:phoenix/kindled_spirit",
+        "usworigins:phoenix/flame_flap",
+        "usworigins:phoenix/spicy_diet",
+        "usworigins:phoenix/burning_fist",
+        "usworigins:phoenix/reincarnate_shrink"
+        
+    ],
+	"icon": {
+		"item": "minecraft:blaze_powder"
+	},
+	"order": 10,
+	"impact": 3,
+    "name": "Phoenix",
+    "description": "Winged infernal creatures, cursed with reincarnation."
+}

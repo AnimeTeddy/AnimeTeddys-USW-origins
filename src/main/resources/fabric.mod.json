@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "usworigins",
+  "version": "${version}",
+
+  "name": "AnimeTeddy's USW-Origins",
+  "description": "USW Origins is an addon for the Origins mod, focusing on a fantasy based theme. Made for the USW-Map by TrixyBlox.",
+  "authors": [
+    "AnimeTeddy"
+  ],
+  "contact": {
+    "homepage": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "source": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "issues": "Teddy#9549"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/usw-origins/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.AnimeTeddy.usworigins.USWOrigins"
+    ]
+  },
+  "mixins": [
+    "usworigins.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17",
+    "origins": ">=1.4.0",
+    "pehkui": ">=3.0"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

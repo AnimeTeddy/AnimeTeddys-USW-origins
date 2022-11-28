@@ -1,0 +1,24 @@
+{
+    "powers": [
+        "origins:aquatic",
+        "origins:aqua_affinity",
+        "origins:like_water",
+        "extraorigins:flammable",
+        "usworigins:global/guardian_alliance",
+        "usworigins:global/water_vision",
+        "usworigins:global/pescatarian",
+        "usworigins:triton/guardians_laser",
+        "usworigins:global/fishing_technique",
+        "usworigins:global/strong_gills",
+        "usworigins:triton/too_hot",
+        "usworigins:triton/tr_homeland",
+        "usworigins:triton/trident_crafting"
+    ],
+	"icon": {
+		"item": "minecraft:trident"
+	},
+	"order": 6,
+	"impact": 3,
+    "name": "Triton",
+    "description": "Warriors of the ocean..."
+}

@@ -1,0 +1,19 @@
+{
+    "powers": [
+        "origins:vegetarian",
+        "usworigins:dryad/forest_regen",
+        "usworigins:global/dehydrated",
+        "extraorigins:flammable",
+        "usworigins:dryad/dryads_blessing",
+        "usworigins:dryad/d_homeland",
+        "usworigins:dryad/barkskin",
+        "usworigins:dryad/solar_powered"
+    ],
+	"icon": {
+		"item": "minecraft:rose_bush"
+	},
+	"order": 2,
+	"impact": 2,
+    "name": "Dryad",
+    "description": "Forest nymphs that protect wildlife and nature."
+}

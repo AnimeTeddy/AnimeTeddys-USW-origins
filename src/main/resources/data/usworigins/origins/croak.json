@@ -1,0 +1,28 @@
+{
+    "powers": [
+        "origins:aquatic",
+        "origins:aqua_affinity",
+        "origins:no_shield",
+        "origins:like_water",
+        "extraorigins:flammable",
+        "extraorigins:green_thumb",
+        "usworigins:global/dehydrated",
+        "usworigins:global/pescatarian",
+        "usworigins:global/fishing_technique",
+        "usworigins:global/strong_lungs",
+        "usworigins:croak/c_homeland",
+        "usworigins:croak/short",
+        "usworigins:croak/anura_descent",
+        "usworigins:croak/alchemical_makeup",
+        "usworigins:croak/not_weapon_adept",
+        "usworigins:croak/toxic_trail",
+        "usworigins:croak/croak_crafting"
+    ],
+	"icon": {
+		"item": "minecraft:prismarine_crystals"
+	},
+	"order": 7,
+	"impact": 3,
+    "name": "Croak",
+    "description": "Toxic aquatic creatures, masters of alchemy, leaping around the swamps."
+}
