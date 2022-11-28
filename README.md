@@ -2,7 +2,7 @@
 
 ## Description
 
-This mod is an addon for the origins mod. It adds fantasy-like origins. The origins are inspired by Deadbones2000/Medieval-Origins and ItzKeneh/RpgOrigins. 
+This mod is an addon for the origins mod. It adds fantasy-like origins. The origins are inspired by Deadbones2000/Medieval-Origins and ItzKeneh/RpgOrigins and some other films and stories like lord of the rings.
 
 ## Required Mods
 
