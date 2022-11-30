@@ -1,8 +1,8 @@
 {
     "type": "origins:stacking_status_effect",
-    "min_stacks": -10,
-    "max_stacks": 15,
-    "duration_per_stack": 20,
+    "min_stacks": 0,
+    "max_stacks": 25,
+    "duration_per_stack": 5,
     "effects": [
         {
             "effect": "minecraft:blindness",
@@ -30,9 +30,9 @@
         "block_condition": {
             "type": "origins:light_level",
             "comparison": ">",
-            "compare_to": 8
+            "compare_to": 13
         }
     },
     "name": "Too Bright!",
-    "description": "You aren't used to bright areas, so when in a light level higher than 8 you are debuffed."
+    "description": "You aren't used to bright areas, so when in a light level higher than 13 you are debuffed."
 }

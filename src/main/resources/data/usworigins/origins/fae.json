@@ -5,7 +5,8 @@
 		        "usworigins:fae/regen",
                 "usworigins:fae/allure",
                 "usworigins:fae/diminutive",
-                "usworigins:fae/iron_aversion"
+                "usworigins:fae/iron_aversion",
+                "usworigins:aqua_struggle"
 	],
 	"icon": "minecraft:experience_bottle",
 	"impact": 2,

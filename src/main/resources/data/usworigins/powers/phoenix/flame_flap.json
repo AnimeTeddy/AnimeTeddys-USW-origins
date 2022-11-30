@@ -23,7 +23,7 @@
             "should_render": false
         },
         "key": {
-            "key": "key.jump"
+            "key": "key.origins.primary_active"
         },
         "cooldown": 0,
         "entity_action": {

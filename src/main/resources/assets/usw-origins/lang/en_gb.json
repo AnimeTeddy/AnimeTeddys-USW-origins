@@ -416,6 +416,9 @@
   "power.usworigins.yeti/winter_body.name": "Winter Body",
   "power.usworigins.yeti/winter_body.description": "Yetis are marginally taller than a regular human, and significantly wider.",
 
+  "power.usworigins.global/faster_exhaust.name": "faster exhaust",
+  "power.usworigins.global/faster_exhaust.description": "You exhaust much faster than others.",
+
   "enchantment.usworigins.featherweight": "Featherweight",
 
   "usworigins.contagious_villager": "The villager doesn't want to be infected!",
