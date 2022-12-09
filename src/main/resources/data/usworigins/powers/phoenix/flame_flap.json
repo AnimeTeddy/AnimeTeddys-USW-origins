@@ -3,7 +3,7 @@
     "flap_resource": {
         "type": "origins:resource",
         "min": 0,
-        "max": 7,
+        "max": 5,
         "hud_render": {
             "should_render": true,
             "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
@@ -12,10 +12,10 @@
                 "type": "origins:resource",
                 "resource": "usworigins:phoenix/flame_flap_flap_resource",
                 "comparison": "<",
-                "compare_to": 7
+                "compare_to": 5
             }
         },
-        "start_value": 7
+        "start_value": 5
     },
     "flap": {
         "type": "origins:active_self",  
@@ -116,7 +116,7 @@
                     "type": "origins:resource",
                     "resource": "usworigins:phoenix/flame_flap_flap_resource",
                     "comparison": "<",
-                    "compare_to": 7
+                    "compare_to": 5
                 },
                 {
                     "type": "origins:on_block"
@@ -125,5 +125,5 @@
         }
     },
     "name": "Flame Flap",
-    "description": "Get 7 flap charges. You flap where you look."
+    "description": "Get 5 flap charges. You flap where you look."
 }

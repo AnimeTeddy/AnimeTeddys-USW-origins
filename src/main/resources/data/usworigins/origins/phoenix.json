@@ -1,5 +1,7 @@
 {
     "powers": [
+        "usworigins:phoenix/spicy_diet",
+        "origins:elytra",
         "origins:damage_from_potions",
         "origins:fire_immunity",
         "origins:flame_particles",
@@ -11,8 +13,7 @@
         "usworigins:phoenix/p_homeland",
         "usworigins:phoenix/reincarnate",
         "usworigins:phoenix/kindled_spirit",
-        "usworigins:phoenix/flame_flap",
-        "usworigins:phoenix/spicy_diet",
+        "usworigins:global/ascending_gust",
         "usworigins:phoenix/burning_fist",
         "usworigins:phoenix/reincarnate_shrink"
         
