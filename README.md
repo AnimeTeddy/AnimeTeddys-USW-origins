@@ -5,7 +5,7 @@
 This mod is an addon for the origins mod. It adds fantasy-like origins. The origins are inspired by Deadbones2000/Medieval-Origins and ItzKeneh/RpgOrigins.
 
 ## Download
-https://github.com/AnimeTeddy/AnimeTeddys-USW-origins/releases/
+usworigins    https://github.com/AnimeTeddy/AnimeTeddys-USW-origins/releases/
 
 ## Required Mods
 
