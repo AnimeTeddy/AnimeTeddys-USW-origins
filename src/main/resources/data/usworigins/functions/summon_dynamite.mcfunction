@@ -4,4 +4,5 @@ scoreboard players operation @s dynamiteID += #fakeMax dynamiteID
 scoreboard players operation @e[tag=dynamite,tag=temp,limit=1] dynamiteID += #fakeMax dynamiteID
 execute as @e[type=minecraft:armor_stand,tag=temp,tag=dynamite,limit=1] if score @s dynamiteID = #fakeMax dynamiteID run tag @s remove temp
 execute as @e[type=minecraft:armor_stand,tag=dynamite,limit=1] if score @s dynamiteID = #fakeMax dynamiteID run scoreboard players add #fakeMax dynamiteID 1
+schedule function usworigins:dynamite_timer 60s
 
