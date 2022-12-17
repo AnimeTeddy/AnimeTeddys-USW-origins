@@ -2,7 +2,7 @@
     "type": "origins:damage_over_time",
     "interval": 22,
     "onset_delay": 1,
-    "damage": 5,
+    "damage": 4,
     "damage_easy": 1,
     "damage_source": {
       "name": "hurt_by_water",

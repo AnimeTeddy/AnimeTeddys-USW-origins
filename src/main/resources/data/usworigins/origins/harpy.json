@@ -1,14 +1,13 @@
 {
   "powers": [
-    "origins:vegetarian",
-    "origins:elytra",
-    "usworigins:harpy/fresh_air",
-    "origins:more_kinetic_damage",
-    "usworigins:harpy/h_homeland",
-    "usworigins:harpy/sharp_talons",
-    "usworigins:global/light_stomach",
-    "usworigins:global/ascending_gust",
-    "usworigins:harpy/divine_shield"
+            "origins:vegetarian",
+            "origins:elytra",
+            "usworigins:harpy/fresh_air",
+            "origins:more_kinetic_damage",
+            "usworigins:harpy/sharp_talons",
+            "usworigins:global/light_stomach",
+            "usworigins:harpy/ascending_gust",
+            "usworigins:harpy/divine_shield"
 
   ],
   "icon": {

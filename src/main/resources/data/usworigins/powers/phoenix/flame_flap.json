@@ -3,7 +3,7 @@
     "flap_resource": {
         "type": "origins:resource",
         "min": 0,
-        "max": 5,
+        "max": 7,
         "hud_render": {
             "should_render": true,
             "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
@@ -12,13 +12,13 @@
                 "type": "origins:resource",
                 "resource": "usworigins:phoenix/flame_flap_flap_resource",
                 "comparison": "<",
-                "compare_to": 5
+                "compare_to": 7
             }
         },
-        "start_value": 5
+        "start_value": 7
     },
     "flap": {
-        "type": "origins:active_self",  
+        "type": "origins:active_self",
         "hud_render": {
             "should_render": false
         },
@@ -34,7 +34,7 @@
                     "z": 1,
                     "space": "local",
                     "set": true
-                    
+
                 },
                 {
                     "type": "origins:change_resource",
@@ -79,7 +79,7 @@
                     "type": "origins:gamemode",
                     "gamemode": "spectator",
                     "inverted": true
-                }, 
+                },
                 {
                     "type": "origins:in_block",
                     "block_condition": {
@@ -116,7 +116,7 @@
                     "type": "origins:resource",
                     "resource": "usworigins:phoenix/flame_flap_flap_resource",
                     "comparison": "<",
-                    "compare_to": 5
+                    "compare_to": 7
                 },
                 {
                     "type": "origins:on_block"
@@ -125,5 +125,5 @@
         }
     },
     "name": "Flame Flap",
-    "description": "Get 5 flap charges. You flap where you look."
+    "description": "Get 7 flap charges. You flap where you look."
 }

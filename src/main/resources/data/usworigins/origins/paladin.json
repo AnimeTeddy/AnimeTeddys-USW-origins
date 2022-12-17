@@ -1,7 +1,7 @@
 {
 	"powers": [
                 "usworigins:paladin/holy_fire",
-		"usworigins:paladin/holy_instruments",
+		        "usworigins:paladin/holy_instruments",
                 "usworigins:paladin/leech",
                 "usworigins:paladin/holy_curse",
                 "usworigins:paladin/well_built"
