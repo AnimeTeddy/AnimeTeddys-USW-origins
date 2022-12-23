@@ -11,7 +11,8 @@
         "usworigins:global/fishing_technique",
         "usworigins:global/strong_gills",
         "usworigins:triton/too_hot",
-        "usworigins:triton/trident_crafting"
+        "usworigins:triton/trident_crafting",
+        "usworigins:triton/tr_homeland"
     ],
 	"icon": {
 		"item": "minecraft:trident"

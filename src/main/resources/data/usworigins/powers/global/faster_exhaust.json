@@ -1,6 +1,6 @@
 {
   "type": "origins:exhaust",
   "interval": 20,
-  "exhaustion": 2.0
+  "exhaustion": 0.5
   }
 }

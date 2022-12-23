@@ -6,7 +6,8 @@
         "usworigins:orc/beefy",
         "usworigins:global/axe_proficiency",
         "usworigins:orc/battle_cry",
-        "usworigins:orc/set_orc"
+        "usworigins:orc/set_orc",
+        "usworigins:orc/o_homeland"
     ],
 	"icon": {
 		"item": "minecraft:stone_axe"

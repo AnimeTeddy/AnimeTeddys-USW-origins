@@ -67,7 +67,7 @@
         "type": "origins:modify_swim_speed",
         "modifier": {
             "operation": "multiply_base",
-            "value": 2.3
+            "value": 2.0
         }
     },
     "starting_stuff": {
