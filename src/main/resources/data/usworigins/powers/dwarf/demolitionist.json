@@ -132,5 +132,5 @@
         }
     },
     "name": "Demolitionist",
-    "description": "Using your primary you can set a small stick of dynamite that will break a 3x3x3 below it after 5 seconds."
+    "description": "Using your primary you can set a small stick of dynamite that will break blocks below it after 5 seconds. If you wait 60 seconds it will disappear."
 }
